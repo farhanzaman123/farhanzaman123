@@ -47,8 +47,7 @@ Hi there! I'm Farhan ((https://github.com/farhanzaman123)), a **Software Develop
 ---
 
 ## 📬 **Let’s Connect**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio-link)
-- 📧 Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/farhanzaman)
+- 📧 Email: farhanzaman2@gmail.com
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to chat about tech! 😊
