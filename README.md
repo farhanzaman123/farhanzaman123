@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile! 🌟
 
-Hi there! I'm Farhan ([@YourUsername](https://github.com/farhanzaman123)), a **Software Developer**, **DevOps Engineer**and **AI Enthusiast** with a passion for building scalable, efficient, and innovative solutions.
+Hi there! I'm Farhan ((https://github.com/farhanzaman123)), a **Software Developer**, **DevOps Engineer**and **AI Enthusiast** with a passion for building scalable, efficient, and innovative solutions.
 
 ---
 
