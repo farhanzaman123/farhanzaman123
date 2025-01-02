@@ -35,7 +35,7 @@ Hi there! I'm Farhan a **Software Developer**, **DevOps Engineer** and **AI Enth
 ---
 
 ## 📊 **GitHub Stats**
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanzaman123&show_icons=true&theme=radical)
 
 ---
 
